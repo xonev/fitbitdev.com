@@ -24,6 +24,8 @@ url: "http://fitbitdev.com" # the base hostname & protocol for your site, e.g. h
 twitter_username: xonev
 github_username:  xonev
 
+google_analytics: UA-106742557-1
+
 # Build settings
 markdown: kramdown
 theme: minima
