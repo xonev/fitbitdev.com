@@ -37,8 +37,8 @@ UX of a Fitbit app.
 ## Getting Involved
 
 Once you have read up on some of this stuff yourself, you will most
-likely have some ideas and some questions. To get those question
-answered or get feedback on your ideas there are a couple of great places you can turn:
+likely have some app ideas and some questions. To get those questions
+answered or get feedback on your app ideas there are a couple of great places you can turn:
 [the official Fitbit SDK development forum](https://community.fitbit.com/t5/SDK-Development/bd-p/sdk)
 and
 [the unofficial Fitbit discord chat server](https://discord.gg/4ujeheG). You
@@ -76,7 +76,7 @@ substantial, but at least you already got started).
 
 ## Let's Get Started
 
-We hope it's clear by now that you already have plenty to do to get
+I hope it's clear by now that you already have plenty to do to get
 started with planning for and even creating your first app. Don't
 hesitate; you can start creating now! If you
 found this helpful, be sure to follow me

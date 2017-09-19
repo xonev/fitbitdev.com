@@ -18,7 +18,7 @@ email: steven.oxley@bytesandbikes.com
 description: >
   Fitbit Development News provides news, programming resources, design resources, guides, and
   general information about designing and creating Fitbit apps. Please submit any interesting
-  Fitbit development information by contacting us on Twitter or via e-mail.
+  Fitbit development information by contacting me on Twitter or via e-mail.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fitbitdev.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: xonev
