@@ -6,9 +6,9 @@ categories: guides
 ---
 
 The Fitbit Ionic is coming! It will ship soon - as of this writing the
-preorder form still says it could be three to four weeks - but when it
-does we will be ready. Ready to create some apps, that is. I have done
-quite a bit of research already to get a head start on creating apps, and, while I have not
+preorder form still says it could be three to four weeks - and when it
+does we will be ready to create some apps. I have done
+quite a bit of research already to get a head start, and, while I have not
 found many ready-made tools (Fitbit studio is not available yet, no
 emulator will be shipping, we don't have our watches, etc.), with a bit of creativity there is still
 plenty to learn and plenty to do.
@@ -16,8 +16,8 @@ plenty to learn and plenty to do.
 ## Required Reading
 
 First off, to start learning what we need to know to create apps, it's
-helpful to have some idea of what the Ionic is going to be capable of
-out of the box. You can do that by reading up on the watch at
+helpful to have some idea of the Ionic's capabilities
+out of the box. You can find out by reading up on the watch at
 [the Fitbit store](https://www.fitbit.com/uk/shop/ionic) and then acquire even
 more detailed information by perusing
 [the Ionic user manual](https://staticcs.fitbit.com/content/assets/help/manuals/manual_ionic_en_US.pdf).
