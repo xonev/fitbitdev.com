@@ -8,7 +8,7 @@ categories: guides
 The Fitbit Ionic is coming! It will ship soon - as of this writing the
 preorder form still says it could be three to four weeks - and when it
 does we will be ready to create some apps. I have done
-quite a bit of research already to get a head start, and, while I have not
+quite a bit of research already to get a head start, and while I have not
 found many ready-made tools (Fitbit studio is not available yet, no
 emulator will be shipping, we don't have our watches, etc.), with a bit of creativity there is still
 plenty to learn and plenty to do.
